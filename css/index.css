@@ -321,7 +321,7 @@ footer {
     border-radius: 10px; /* Bordes arrodonits */
     overflow: hidden;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra */
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .video-container iframe {
